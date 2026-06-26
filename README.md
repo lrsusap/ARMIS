@@ -128,6 +128,7 @@ The ARMIS Professional Framework Ecosystem is being developed as a long-term eng
 
 # Repository Structure
 
+```text
 ARMIS
 │
 ├── Frameworks
@@ -144,21 +145,16 @@ ARMIS
 │   └── README.md
 │
 ├── Publications
-│
 ├── Dashboards
-│
 ├── Templates
-│
 ├── Case-Studies
-│
 ├── Presentations
-│
 ├── Resources
 │
 ├── LICENSE
 └── README.md
 
----
+
 
 ## About the Creator
 
