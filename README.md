@@ -2,6 +2,7 @@
   <img src="Images/ARMIS-PM.png" alt="ARMIS-PM Framework" width="95%">
 </p>
 
+
 # ARMIS
 
 ## Asset Reliability & Maintenance Integrated Strategy
@@ -10,70 +11,127 @@
 
 ---
 
-**ARMIS** is a professional engineering framework ecosystem designed to integrate **asset management, strategic maintenance, reliability engineering, operational excellence, digital transformation and artificial intelligence** into a unified management model.
+ARMIS (**Asset Reliability & Maintenance Integrated Strategy**) is an integrated professional framework ecosystem designed to support organizations in maximizing asset performance, operational excellence and long-term business value.
 
-Its purpose is to support organizations in improving asset performance, operational efficiency and long-term sustainability through structured methodologies, engineering best practices and data-driven decision making.
+The project combines **asset management, strategic maintenance, reliability engineering, operational technology (OT), industrial analytics, governance and artificial intelligence** into a unified methodology for industrial organizations.
 
----
+Rather than focusing only on maintenance execution, ARMIS promotes a strategic vision where assets are managed throughout their entire lifecycle, aligning engineering decisions with business objectives, sustainability and digital transformation.
 
-## Vision
-
-To become a professional reference framework for maintenance engineering, asset management and industrial digital transformation, providing methodologies, tools and practical resources that support organizations in achieving operational excellence.
+The ecosystem is intended to serve as both a **professional reference framework** and a **technical portfolio**, bringing together methodologies, practical tools, templates, dashboards, case studies and engineering best practices.
 
 ---
 
-## ARMIS Ecosystem
+# Contents
 
-| Framework | Status | Description |
-|-----------|:------:|-------------|
-| ARMIS-PM | ✅ Available | Strategic Maintenance Management |
-| ARMIS-RM | 🚧 In Development | Reliability Management |
-| ARMIS-AI | 🚧 In Development | Artificial Intelligence |
-| ARMIS-OT | 📅 Planned | Operational Technology |
-| ARMIS-RISK | 📅 Planned | Operational Risk Management |
-
----
-
-## Engineering Domains
-
-- Asset Management
-- Maintenance Engineering
-- Reliability Engineering
-- Operational Excellence
-- Industrial Analytics
-- Digital Transformation
-- Artificial Intelligence
-- Operational Technology
+- [Description](#description)
+- [Why ARMIS?](#why-armis)
+- [Vision](#vision)
+- [ARMIS Ecosystem](#armis-ecosystem)
+- [Domains](#domains)
+- [Repository Structure](#repository-structure)
+- [Roadmap](#roadmap)
+- [About the Creator](#about-the-creator)
 
 ---
 
-## Repository Structure
+# Description
 
-```text
+ARMIS provides an integrated engineering approach for organizations seeking to improve maintenance performance, asset reliability, operational efficiency and strategic decision-making.
+
+The framework combines internationally recognized engineering practices with modern digital technologies, allowing organizations to move from traditional maintenance management toward intelligent, data-driven asset management.
+
+Its modular architecture enables each framework to be implemented independently or as part of a complete ecosystem, depending on the organization's maturity level and business objectives.
+
+---
+
+# Why ARMIS?
+
+Current industrial maintenance methodologies often concentrate on operational execution while treating strategic planning, asset management, digital transformation and engineering analytics as independent disciplines.
+
+This fragmentation frequently leads to disconnected information, duplicated efforts, inconsistent decision-making and limited visibility across the asset lifecycle.
+
+ARMIS was created to address this challenge by integrating engineering, governance, operational technology, business intelligence and artificial intelligence into a unified professional ecosystem.
+
+Instead of viewing maintenance as an isolated operational function, ARMIS positions it as a strategic business capability capable of generating measurable value throughout the entire lifecycle of industrial assets.
+
+---
+
+# Vision
+
+To become an internationally recognized professional ecosystem for asset management, maintenance engineering, reliability, operational excellence and digital transformation, providing practical methodologies that help organizations maximize asset value through engineering, innovation and data-driven decision making.
+
+---
+
+# ARMIS Ecosystem
+| Framework | Focus Area | Status | Description |
+|----------|------------|--------|-------------|
+| ARMIS-PM | Performance Management | ✅ Available | Strategic framework for maintenance management, asset performance, reliability and digital transformation. |
+| ARMIS-AM | Asset Management | 🚧 In Development | Framework focused on asset lifecycle management, criticality and value optimization. |
+| ARMIS-RM | Reliability Management | 🚧 In Development | Framework for reliability engineering, failure analysis, RCA, FMEA and continuous improvement. |
+| ARMIS-AI | Artificial Intelligence | 🚧 In Development | AI-oriented framework for predictive maintenance, decision support and intelligent automation. |
+| ARMIS-OT | Operational Technology | 📅 Planned | Framework for OT environments, industrial systems, IIoT, SCADA and IT/OT integration. |
+| ARMIS-GRC | Governance, Risk & Compliance | 📅 Planned | Framework for governance, risk management, compliance and operational resilience. |
+| ARMIS-RISK | Operational Risk Management | 📅 Planned | Framework focused on operational risks, asset risks, continuity and decision-making. |
+
+---
+
+# Domains
+
+ARMIS integrates multiple engineering, operational and digital domains into a unified professional ecosystem.
+
+| Domain | Scope |
+|--------|-------|
+| Asset Management | Asset lifecycle, criticality, value optimization and strategic alignment. |
+| Maintenance Engineering | Preventive, predictive, corrective and condition-based maintenance. |
+| Reliability Engineering | RCA, FMEA, MTBF, MTTR, availability, maintainability and failure analysis. |
+| Operational Excellence | Process optimization, standardization, continuous improvement and performance management. |
+| Industrial Analytics | KPIs, dashboards, operational intelligence, Power BI and data-driven decisions. |
+| Digital Transformation | Digital workflows, automation, CMMS/EAM, ERP integration and Industry 4.0. |
+| Artificial Intelligence | Predictive maintenance, intelligent recommendations, automation and decision support. |
+| Operational Technology | SCADA, IIoT, sensors, industrial networks and IT/OT integration. |
+| Risk Management | Operational risk, asset risk, continuity, resilience and compliance. |
+
+---
+
+# Repository Structure
+
 ARMIS
 │
 ├── Frameworks
-│     └── ARMIS-PM
+│   ├── ARMIS-PM
+│   ├── ARMIS-AM
+│   ├── ARMIS-RM
+│   ├── ARMIS-AI
+│   ├── ARMIS-OT
+│   ├── ARMIS-GRC
+│   └── ARMIS-RISK
+│
+├── Images
+│   ├── ARMIS-PM.png
+│   └── README.md
 │
 ├── Publications
+│
 ├── Dashboards
+│
 ├── Templates
-├── Case Studies
+│
+├── Case-Studies
+│
 ├── Presentations
-├── Images
-└── Resources
-```
+│
+├── Resources
+│
+├── LICENSE
+└── README.md
 
----
 
 ## About the Creator
 
 **Lewis Rafael Susa Peñate**
 
 Industrial Engineer
-
 Systems Engineer
-
 Information Security Specialist
 
-Creator of the **ARMIS Professional Framework Ecosystem**.
+Creator of the ARMIS Professional Framework Ecosystem, focused on integrating maintenance, asset management, reliability, digital transformation, operational technology, risk management and artificial intelligence into practical engineering methodologies.
