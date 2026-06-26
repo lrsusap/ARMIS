@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/ARMIS.png" alt="ARMIS-PM Framework" width="100%">
+  <img src="Images/ARMIS.png" alt="ARMIS-PM Framework" width="105%">
 </p>
 
 
