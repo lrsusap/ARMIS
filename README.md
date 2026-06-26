@@ -1,8 +1,6 @@
-██████████████████████████████
-
-        (Imagen ARMIS)
-
-██████████████████████████████
+<p align="center">
+  <img src="Images/ARMIS-PM.png" alt="ARMIS-PM Framework" width="95%">
+</p>
 
 # ARMIS
 
