@@ -93,6 +93,39 @@ ARMIS integrates multiple engineering, operational and digital domains into a un
 
 ---
 
+# Roadmap
+
+The ARMIS Professional Framework Ecosystem is being developed as a long-term engineering initiative. Each framework contributes a specialized domain while maintaining interoperability across the complete ecosystem.
+
+| Phase | Deliverable | Status |
+|------|-------------|:------:|
+| Phase 1 | Repository initialization and project architecture | ✅ Completed |
+| Phase 2 | ARMIS Main Repository (Documentation & Landing Page) | ✅ Completed |
+| Phase 3 | ARMIS-PM Framework (Performance Management) | 🚧 In Progress |
+| Phase 4 | ARMIS-AM Framework (Asset Management) | 📅 Planned |
+| Phase 5 | ARMIS-RM Framework (Reliability Management) | 📅 Planned |
+| Phase 6 | ARMIS-RISK Framework (Operational Risk Management) | 📅 Planned |
+| Phase 7 | ARMIS-GRC Framework (Governance, Risk & Compliance) | 📅 Planned |
+| Phase 8 | ARMIS-OT Framework (Operational Technology & Industry 4.0) | 📅 Planned |
+| Phase 9 | ARMIS-AI Framework (Artificial Intelligence for Asset Performance) | 📅 Planned |
+| Phase 10 | Templates, Dashboards and Engineering Toolkits | 📅 Planned |
+| Phase 11 | Industrial Case Studies and Best Practices | 📅 Planned |
+| Phase 12 | Technical Publications and Professional Guides | 📅 Planned |
+
+---
+
+### Long-Term Objectives
+
+- Develop a complete professional engineering framework ecosystem.
+- Integrate international best practices in maintenance and asset management.
+- Publish practical methodologies supported by real industrial scenarios.
+- Build reusable templates, dashboards and engineering toolkits.
+- Incorporate Artificial Intelligence into maintenance decision-making.
+- Promote operational excellence through data-driven engineering.
+- Create an open technical knowledge base for engineers and organizations worldwide.
+
+---
+
 # Repository Structure
 
 ARMIS
@@ -125,6 +158,7 @@ ARMIS
 ├── LICENSE
 └── README.md
 
+---
 
 ## About the Creator
 
