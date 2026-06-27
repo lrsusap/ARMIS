@@ -10,9 +10,6 @@
 
 > **Integramos estrategia, procesos críticos, servicios esenciales, activos, riesgos, tecnología e inteligencia artificial para generar valor sostenible.**
 
----
-
-![ARMIS Framework](Images/armis-framework.png)
 
 ---
 
