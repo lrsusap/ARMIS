@@ -2,166 +2,201 @@
   <img src="Images/ARMIS.png" alt="ARMIS-PM Framework" width="105%">
 </p>
 
-
 # ARMIS
 
-## Asset Reliability & Maintenance Integrated Strategy
+## Asset Reliability & Maintenance Intelligence
 
-### Professional Technical Portfolio
+### Professional Engineering Framework Ecosystem
 
----
-
-ARMIS (**Asset Reliability & Maintenance Integrated Strategy**) is an integrated professional framework ecosystem designed to support organizations in maximizing asset performance, operational excellence and long-term business value.
-
-The project combines **asset management, strategic maintenance, reliability engineering, operational technology (OT), industrial analytics, governance and artificial intelligence** into a unified methodology for industrial organizations.
-
-Rather than focusing only on maintenance execution, ARMIS promotes a strategic vision where assets are managed throughout their entire lifecycle, aligning engineering decisions with business objectives, sustainability and digital transformation.
-
-The ecosystem is intended to serve as both a **professional reference framework** and a **technical portfolio**, bringing together methodologies, practical tools, templates, dashboards, case studies and engineering best practices.
+> **Integramos estrategia, procesos críticos, servicios esenciales, activos, riesgos, tecnología e inteligencia artificial para generar valor sostenible.**
 
 ---
 
-# Contents
-
-- [Description](#description)
-- [Why ARMIS?](#why-armis)
-- [Vision](#vision)
-- [ARMIS Ecosystem](#armis-ecosystem)
-- [Domains](#domains)
-- [Repository Structure](#repository-structure)
-- [Roadmap](#roadmap)
-- [About the Creator](#about-the-creator)
+![ARMIS Framework](Images/armis-framework.png)
 
 ---
 
-# Description
+## Bienvenido a ARMIS
 
-ARMIS provides an integrated engineering approach for organizations seeking to improve maintenance performance, asset reliability, operational efficiency and strategic decision-making.
+ARMIS (**Asset Reliability & Maintenance Intelligence**) es un **Professional Engineering Framework Ecosystem** diseñado para integrar disciplinas de ingeniería que tradicionalmente han evolucionado de manera independiente, proporcionando un marco metodológico para alinear la estrategia organizacional con la gestión de procesos críticos, servicios esenciales, activos, riesgos, continuidad operacional, tecnología e inteligencia artificial.
 
-The framework combines internationally recognized engineering practices with modern digital technologies, allowing organizations to move from traditional maintenance management toward intelligent, data-driven asset management.
-
-Its modular architecture enables each framework to be implemented independently or as part of a complete ecosystem, depending on the organization's maturity level and business objectives.
+Más que una metodología de mantenimiento o una plataforma tecnológica, ARMIS constituye un marco de ingeniería orientado a fortalecer la capacidad de las organizaciones para cumplir su misión mediante la generación sostenible de valor.
 
 ---
 
-# Why ARMIS?
+# ¿Por qué nace ARMIS?
 
-Current industrial maintenance methodologies often concentrate on operational execution while treating strategic planning, asset management, digital transformation and engineering analytics as independent disciplines.
+Las organizaciones actuales operan en entornos donde personas, procesos, activos, información y tecnología interactúan de manera permanente.
 
-This fragmentation frequently leads to disconnected information, duplicated efforts, inconsistent decision-making and limited visibility across the asset lifecycle.
+Sin embargo, muchas metodologías continúan abordando estos elementos de forma independiente, generando silos de información, esfuerzos duplicados y decisiones desconectadas de la estrategia empresarial.
 
-ARMIS was created to address this challenge by integrating engineering, governance, operational technology, business intelligence and artificial intelligence into a unified professional ecosystem.
-
-Instead of viewing maintenance as an isolated operational function, ARMIS positions it as a strategic business capability capable of generating measurable value throughout the entire lifecycle of industrial assets.
+ARMIS nace para ofrecer una visión integrada de la ingeniería, en la que todas las disciplinas contribuyen a un mismo propósito: apoyar el cumplimiento de los objetivos estratégicos mediante la gestión coordinada de los recursos organizacionales.
 
 ---
 
-# Vision
+# Nuestra visión
 
-To become an internationally recognized professional ecosystem for asset management, maintenance engineering, reliability, operational excellence and digital transformation, providing practical methodologies that help organizations maximize asset value through engineering, innovation and data-driven decision making.
-
----
-
-# ARMIS Ecosystem
-| Framework | Focus Area | Status | Description |
-|----------|------------|--------|-------------|
-| ARMIS-PM | Performance Management | ✅ Available | Strategic framework for maintenance management, asset performance, reliability and digital transformation. |
-| ARMIS-AM | Asset Management | 🚧 In Development | Framework focused on asset lifecycle management, criticality and value optimization. |
-| ARMIS-RM | Reliability Management | 🚧 In Development | Framework for reliability engineering, failure analysis, RCA, FMEA and continuous improvement. |
-| ARMIS-AI | Artificial Intelligence | 🚧 In Development | AI-oriented framework for predictive maintenance, decision support and intelligent automation. |
-| ARMIS-OT | Operational Technology | 📅 Planned | Framework for OT environments, industrial systems, IIoT, SCADA and IT/OT integration. |
-| ARMIS-GRC | Governance, Risk & Compliance | 📅 Planned | Framework for governance, risk management, compliance and operational resilience. |
-| ARMIS-RISK | Operational Risk Management | 📅 Planned | Framework focused on operational risks, asset risks, continuity and decision-making. |
+Consolidar un ecosistema internacional de ingeniería que permita integrar estrategia, gestión de activos, confiabilidad, continuidad, calidad, tecnología, analítica e inteligencia artificial dentro de un único Framework, proporcionando metodologías abiertas, escalables e independientes de plataformas tecnológicas.
 
 ---
 
-# Domains
+# El modelo conceptual ARMIS
 
-ARMIS integrates multiple engineering, operational and digital domains into a unified professional ecosystem.
-
-| Domain | Scope |
-|--------|-------|
-| Asset Management | Asset lifecycle, criticality, value optimization and strategic alignment. |
-| Maintenance Engineering | Preventive, predictive, corrective and condition-based maintenance. |
-| Reliability Engineering | RCA, FMEA, MTBF, MTTR, availability, maintainability and failure analysis. |
-| Operational Excellence | Process optimization, standardization, continuous improvement and performance management. |
-| Industrial Analytics | KPIs, dashboards, operational intelligence, Power BI and data-driven decisions. |
-| Digital Transformation | Digital workflows, automation, CMMS/EAM, ERP integration and Industry 4.0. |
-| Artificial Intelligence | Predictive maintenance, intelligent recommendations, automation and decision support. |
-| Operational Technology | SCADA, IIoT, sensors, industrial networks and IT/OT integration. |
-| Risk Management | Operational risk, asset risk, continuity, resilience and compliance. |
-
----
-
-# Roadmap
-
-The ARMIS Professional Framework Ecosystem is being developed as a long-term engineering initiative. Each framework contributes a specialized domain while maintaining interoperability across the complete ecosystem.
-
-| Phase | Deliverable | Status |
-|------|-------------|:------:|
-| Phase 1 | Repository initialization and project architecture | ✅ Completed |
-| Phase 2 | ARMIS Main Repository (Documentation & Landing Page) | ✅ Completed |
-| Phase 3 | ARMIS-PM Framework (Performance Management) | 🚧 In Progress |
-| Phase 4 | ARMIS-AM Framework (Asset Management) | 📅 Planned |
-| Phase 5 | ARMIS-RM Framework (Reliability Management) | 📅 Planned |
-| Phase 6 | ARMIS-RISK Framework (Operational Risk Management) | 📅 Planned |
-| Phase 7 | ARMIS-GRC Framework (Governance, Risk & Compliance) | 📅 Planned |
-| Phase 8 | ARMIS-OT Framework (Operational Technology & Industry 4.0) | 📅 Planned |
-| Phase 9 | ARMIS-AI Framework (Artificial Intelligence for Asset Performance) | 📅 Planned |
-| Phase 10 | Templates, Dashboards and Engineering Toolkits | 📅 Planned |
-| Phase 11 | Industrial Case Studies and Best Practices | 📅 Planned |
-| Phase 12 | Technical Publications and Professional Guides | 📅 Planned |
-
----
-
-### Long-Term Objectives
-
-- Develop a complete professional engineering framework ecosystem.
-- Integrate international best practices in maintenance and asset management.
-- Publish practical methodologies supported by real industrial scenarios.
-- Build reusable templates, dashboards and engineering toolkits.
-- Incorporate Artificial Intelligence into maintenance decision-making.
-- Promote operational excellence through data-driven engineering.
-- Create an open technical knowledge base for engineers and organizations worldwide.
-
----
-
-# Repository Structure
+La filosofía del Framework se fundamenta en la siguiente relación de valor:
 
 ```text
-ARMIS
-│
-├── Frameworks
-│   ├── ARMIS-PM
-│   ├── ARMIS-AM
-│   ├── ARMIS-RM
-│   ├── ARMIS-AI
-│   ├── ARMIS-OT
-│   ├── ARMIS-GRC
-│   └── ARMIS-RISK
-│
-├── Images
-│   ├── ARMIS-PM.png
-│   └── README.md
-│
-├── Publications
-├── Dashboards
-├── Templates
-├── Case-Studies
-├── Presentations
-├── Resources
-│
-├── LICENSE
-└── README.md
+Misión Organizacional
+        │
+        ▼
+Objetivos Estratégicos
+        │
+        ▼
+Procesos Críticos
+        │
+        ▼
+Servicios Esenciales
+        │
+        ▼
+Activos Estratégicos
+        │
+        ▼
+Gestión Integrada
+        │
+ ├── Riesgos
+ ├── Confiabilidad
+ ├── Mantenimiento
+ ├── Tecnología
+ ├── Calidad
+ ├── Continuidad
+ ├── Analítica
+ └── Inteligencia Artificial
+        │
+        ▼
+Valor para el Negocio
+```
 
+---
 
+# Dominios de Ingeniería
 
-## About the Creator
+ARMIS integra conocimientos provenientes de múltiples disciplinas:
+
+| Dominio                     | Propósito                                                                    |
+| --------------------------- | ---------------------------------------------------------------------------- |
+| Ingeniería Industrial       | Gestión de procesos, operaciones, activos y desempeño.                       |
+| Ingeniería de Sistemas      | Arquitectura empresarial, sistemas de información e integración tecnológica. |
+| Redes de Telecomunicaciones | Conectividad entre personas, procesos, activos y tecnologías.                |
+| Seguridad Informática       | Protección de la información y resiliencia tecnológica.                      |
+| Gestión de Activos          | Optimización del ciclo de vida de los activos.                               |
+| Gestión del Riesgo          | Identificación y tratamiento integral de riesgos.                            |
+| Continuidad del Negocio     | Protección de los servicios esenciales.                                      |
+| Ciencia de Datos            | Transformación de datos en conocimiento.                                     |
+| Inteligencia Artificial     | Apoyo avanzado para la toma de decisiones.                                   |
+
+---
+
+# Ecosistema ARMIS
+
+El ecosistema evolucionará mediante módulos especializados que compartirán una filosofía y arquitectura comunes.
+
+| Módulo   | Estado           |
+| -------- | ---------------- |
+| ARMIS-PM | 🚧 En desarrollo |
+| ARMIS-AM | 📅 Planificado   |
+| ARMIS-RM | 📅 Planificado   |
+| ARMIS-CM | 📅 Planificado   |
+| ARMIS-CS | 📅 Planificado   |
+| ARMIS-AI | 📅 Planificado   |
+| ARMIS-DA | 📅 Planificado   |
+| ARMIS-OT | 📅 Planificado   |
+
+---
+
+# Documentación Oficial
+
+La documentación del proyecto se encuentra organizada de forma jerárquica.
+
+| Documento            | Propósito                                                  |
+| -------------------- | ---------------------------------------------------------- |
+| ARMIS_PHILOSOPHY.md  | Filosofía, postulados, axiomas y principios del Framework. |
+| ARMIS_MASTER_PLAN.md | Dirección estratégica y hoja de ruta del proyecto.         |
+| README.md            | Presentación oficial del ecosistema.                       |
+
+---
+
+# Estado del Proyecto
+
+ARMIS se encuentra actualmente en la fase de consolidación de su arquitectura conceptual y documental.
+
+Los siguientes hitos ya han sido alcanzados:
+
+* ✅ Filosofía de Ingeniería ARMIS.
+* ✅ Plan Maestro del Proyecto.
+* 🚧 Desarrollo del Framework ARMIS-PM.
+* 📅 Arquitectura metodológica.
+* 📅 Implementación tecnológica.
+
+---
+
+# Hoja de Ruta
+
+La evolución del proyecto seguirá una estrategia incremental:
+
+1. Consolidación del Framework.
+2. Desarrollo metodológico.
+3. Desarrollo de módulos especializados.
+4. Implementación tecnológica.
+5. Integración con plataformas empresariales.
+6. Incorporación de analítica avanzada.
+7. Integración de inteligencia artificial.
+8. Consolidación del ecosistema ARMIS.
+
+---
+
+# Tecnologías del Ecosistema
+
+La futura implementación tecnológica podrá integrar plataformas como:
+
+* SAP PM
+* IBM Maximo
+* Power BI
+* Python
+* PostgreSQL
+* Docker
+* FastAPI
+* Inteligencia Artificial
+* IIoT
+* Plataformas OT
+
+La selección tecnológica siempre estará subordinada a la filosofía y metodología del Framework.
+
+---
+
+# Cómo comenzar
+
+Si es la primera vez que visitas el proyecto, el recorrido recomendado es:
+
+1. Leer el presente README.
+2. Revisar **ARMIS_PHILOSOPHY.md**.
+3. Consultar **ARMIS_MASTER_PLAN.md**.
+4. Explorar los Frameworks especializados.
+
+---
+
+# Autor
 
 **Lewis Rafael Susa Peñate**
 
-Industrial Engineer
-Systems Engineer
-Information Security Specialist
+Ingeniero Industrial
 
-Creator of the ARMIS Professional Framework Ecosystem, focused on integrating maintenance, asset management, reliability, digital transformation, operational technology, risk management and artificial intelligence into practical engineering methodologies.
+Ingeniero de Sistemas
+
+Especialista en Seguridad Informática
+
+Creador del ecosistema **ARMIS – Professional Engineering Framework Ecosystem**.
+
+---
+
+# Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.
