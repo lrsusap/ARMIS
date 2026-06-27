@@ -14,7 +14,7 @@
 
 **Autor:** Lewis R. Susa P.
 
-**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence
+**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence System
 
 **Clasificación:** Documento de Dirección Estratégica del Proyecto
 
