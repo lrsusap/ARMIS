@@ -14,7 +14,7 @@
 
 **Autor:** Lewis R. Susa P.
 
-**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence Syetem
+**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence System
 
 **Clasificación:** Documento Rector del Framework
 
