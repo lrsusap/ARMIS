@@ -4,7 +4,7 @@
 
 # ARMIS
 
-## Asset Reliability & Maintenance Intelligence
+## Asset Reliability & Maintenance Intelligence System
 
 ### Professional Engineering Framework Ecosystem
 
@@ -15,7 +15,7 @@
 
 ## Bienvenido a ARMIS
 
-ARMIS (**Asset Reliability & Maintenance Intelligence**) es un **Professional Engineering Framework Ecosystem** diseñado para integrar disciplinas de ingeniería que tradicionalmente han evolucionado de manera independiente, proporcionando un marco metodológico para alinear la estrategia organizacional con la gestión de procesos críticos, servicios esenciales, activos, riesgos, continuidad operacional, tecnología e inteligencia artificial.
+ARMIS (**Asset Reliability & Maintenance Intelligence System**) es un **Professional Engineering Framework Ecosystem** diseñado para integrar disciplinas de ingeniería que tradicionalmente han evolucionado de manera independiente, proporcionando un marco metodológico para alinear la estrategia organizacional con la gestión de procesos críticos, servicios esenciales, activos, riesgos, continuidad operacional, tecnología e inteligencia artificial.
 
 Más que una metodología de mantenimiento o una plataforma tecnológica, ARMIS constituye un marco de ingeniería orientado a fortalecer la capacidad de las organizaciones para cumplir su misión mediante la generación sostenible de valor.
 
