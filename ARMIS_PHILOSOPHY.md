@@ -14,7 +14,7 @@
 
 **Autor:** Lewis R. Susa P.
 
-**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence
+**Proyecto:** ARMIS – Asset Reliability & Maintenance Intelligence Syetem
 
 **Clasificación:** Documento Rector del Framework
 
@@ -34,7 +34,7 @@ Para lograrlo, ejecutan procesos críticos que permiten prestar servicios esenci
 
 En este contexto, el mantenimiento deja de entenderse como una actividad operativa aislada y pasa a concebirse como una capacidad estratégica cuya finalidad consiste en contribuir al desempeño organizacional y al cumplimiento de los objetivos del negocio.
 
-ARMIS (Asset Reliability & Maintenance Intelligence) nace como respuesta a esta necesidad de integración. No es únicamente una plataforma informática, una metodología de mantenimiento o un modelo de gestión de activos. ARMIS constituye un **Professional Engineering Framework Ecosystem**, diseñado para integrar disciplinas de ingeniería bajo un mismo marco conceptual, metodológico y estratégico.
+ARMIS (Asset Reliability & Maintenance Intelligence System) nace como respuesta a esta necesidad de integración. No es únicamente una plataforma informática, una metodología de mantenimiento o un modelo de gestión de activos. ARMIS constituye un **Professional Engineering Framework Ecosystem**, diseñado para integrar disciplinas de ingeniería bajo un mismo marco conceptual, metodológico y estratégico.
 
 Su propósito consiste en proporcionar una visión integral que permita comprender cómo la estrategia organizacional, los procesos críticos, los servicios esenciales, los activos, los riesgos, la tecnología y la inteligencia artificial interactúan para generar valor sostenible.
 
