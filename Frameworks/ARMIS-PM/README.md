@@ -1,6 +1,6 @@
 # ARMIS-PM
 
-## Asset Reliability & Maintenance Integrated Strategy
+## Asset Reliability & Maintenance Intelligence System
 
 ### Performance Management Framework
 
