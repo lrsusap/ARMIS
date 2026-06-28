@@ -1693,3 +1693,913 @@ Su aplicación permite transformar la información proveniente de la gestión de
 El mantenimiento deja de ser un fin operativo y se convierte en una capacidad estratégica para preservar los activos, garantizar la continuidad de los servicios esenciales y fortalecer la generación de valor.
 
 Los principios desarrollados en este capítulo servirán como base para el siguiente componente metodológico del Framework: la **Gestión Tecnológica**, donde se establecerán las capacidades digitales necesarias para soportar la implementación de ARMIS-PM.
+
+---
+
+# 16. Gestión Tecnológica
+
+## Modelo ARMIS de Gestión Tecnológica (MAGT)
+
+La Gestión Tecnológica constituye el componente metodológico encargado de integrar las capacidades tecnológicas que soportan la implementación, operación, evolución y mejora continua del Framework ARMIS-PM.
+
+Desde la perspectiva de ARMIS, la tecnología no representa un objetivo en sí misma. Su verdadero propósito consiste en habilitar la gestión estratégica del desempeño mediante la integración de procesos, activos, personas, información y herramientas digitales.
+
+El Modelo ARMIS de Gestión Tecnológica (MAGT) proporciona los principios y lineamientos necesarios para seleccionar, integrar y gestionar tecnologías que fortalezcan la confiabilidad, la continuidad operacional, la toma de decisiones y la generación sostenible de valor.
+
+En consecuencia, ARMIS-PM considera la tecnología como un habilitador estratégico capaz de conectar la ingeniería con la transformación digital de las organizaciones.
+
+---
+
+# Concepto de Gestión Tecnológica
+
+ARMIS-PM define la Gestión Tecnológica como:
+
+> **"El conjunto de capacidades, procesos y herramientas que permiten integrar tecnologías de información, tecnologías operacionales y soluciones digitales para fortalecer el desempeño organizacional, soportar los servicios esenciales y contribuir al cumplimiento de la estrategia."**
+
+Esta definición amplía el concepto tradicional de gestión tecnológica al incorporarla como parte integral del modelo de ingeniería propuesto por ARMIS.
+
+---
+
+# Objetivos del MAGT
+
+El Modelo ARMIS de Gestión Tecnológica tiene como propósito:
+
+* Integrar la tecnología con la estrategia organizacional.
+* Soportar la gestión de activos estratégicos.
+* Fortalecer la continuidad de los servicios esenciales.
+* Facilitar la captura y explotación de información.
+* Incrementar la capacidad de análisis y toma de decisiones.
+* Favorecer la transformación digital.
+* Preparar la organización para la incorporación progresiva de inteligencia artificial.
+
+---
+
+# Principios del MAGT
+
+La gestión tecnológica se fundamenta en los siguientes principios:
+
+* La tecnología debe responder a necesidades del negocio.
+* La información constituye el principal activo tecnológico.
+* La integración prevalece sobre la fragmentación.
+* La interoperabilidad facilita la generación de valor.
+* La ciberseguridad forma parte del diseño tecnológico.
+* La evolución tecnológica debe realizarse de manera planificada y sostenible.
+
+---
+
+# Componentes del MAGT
+
+ARMIS-PM integra múltiples capacidades tecnológicas dentro de un único modelo.
+
+Entre ellas:
+
+### Sistemas de Gestión Empresarial
+
+ERP, EAM, CMMS, SAP PM y demás plataformas orientadas a la administración de activos, mantenimiento y recursos organizacionales.
+
+---
+
+### Tecnologías de Información (IT)
+
+Infraestructura informática, servidores, redes, almacenamiento, plataformas empresariales, servicios en la nube y soluciones corporativas.
+
+---
+
+### Tecnologías Operacionales (OT)
+
+Sistemas de automatización, PLC, SCADA, DCS, HMI, sensores, sistemas de supervisión y demás tecnologías directamente relacionadas con la operación de los procesos industriales.
+
+---
+
+### Internet Industrial de las Cosas (IIoT)
+
+Dispositivos inteligentes capaces de capturar información operacional en tiempo real para fortalecer el monitoreo de activos y la toma de decisiones.
+
+---
+
+### Integración IT/OT
+
+ARMIS-PM promueve la convergencia entre tecnologías de información y tecnologías operacionales como elemento fundamental para la transformación digital de las organizaciones.
+
+---
+
+### Ciberseguridad
+
+La protección de los activos tecnológicos constituye un requisito indispensable para preservar la continuidad de los servicios esenciales.
+
+Por esta razón, la ciberseguridad deberá integrarse desde el diseño de las soluciones tecnológicas y no como un componente independiente.
+
+---
+
+# Arquitectura tecnológica dentro de ARMIS
+
+El MAGT actúa como plataforma habilitadora para todos los modelos metodológicos desarrollados previamente.
+
+```text
+Estrategia Organizacional
+            │
+            ▼
+Procesos Críticos
+            │
+            ▼
+Servicios Esenciales
+            │
+            ▼
+Activos Estratégicos
+            │
+            ▼
+Riesgo • Confiabilidad • Mantenimiento
+            │
+            ▼
+Modelo ARMIS de Gestión Tecnológica (MAGT)
+            │
+            ▼
+Datos y Analítica
+            │
+            ▼
+Inteligencia Artificial
+```
+
+Esta arquitectura garantiza que la tecnología apoye directamente la gestión del desempeño y no opere de forma aislada.
+
+---
+
+# Beneficios del MAGT
+
+La implementación del Modelo ARMIS de Gestión Tecnológica permite:
+
+* Incrementar la integración entre procesos y tecnologías.
+* Mejorar la visibilidad del desempeño organizacional.
+* Fortalecer la continuidad operacional.
+* Optimizar la gestión de activos.
+* Favorecer la automatización de procesos.
+* Facilitar la interoperabilidad entre plataformas.
+* Preparar la organización para la analítica avanzada y la inteligencia artificial.
+* Incrementar la resiliencia tecnológica.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Gestión Tecnológica representa el puente entre la ingeniería y la transformación digital.
+
+Su propósito consiste en proporcionar las capacidades tecnológicas necesarias para soportar la implementación de ARMIS-PM y facilitar la evolución progresiva hacia organizaciones cada vez más inteligentes, conectadas y orientadas a datos.
+
+Los conceptos desarrollados en este capítulo servirán como base para el siguiente componente metodológico del Framework: el **Modelo ARMIS de Datos y Analítica**, donde la información capturada por las tecnologías será transformada en conocimiento útil para la toma de decisiones estratégicas.
+
+---
+
+# 17. Datos y Analítica
+
+## Modelo ARMIS de Datos y Analítica (MADA)
+
+Los datos constituyen uno de los activos estratégicos más importantes para la implementación del Framework ARMIS-PM.
+
+Sin embargo, ARMIS establece que los datos, por sí solos, no generan valor.
+
+El verdadero valor surge cuando los datos son transformados en información, la información en conocimiento y el conocimiento en decisiones capaces de fortalecer el desempeño organizacional.
+
+El Modelo ARMIS de Datos y Analítica (MADA) proporciona la metodología mediante la cual la organización captura, integra, analiza e interpreta la información proveniente de sus procesos, activos y tecnologías para apoyar la toma de decisiones estratégicas.
+
+Su propósito consiste en garantizar que todas las decisiones relacionadas con los activos, el mantenimiento, la confiabilidad, la gestión del riesgo y la continuidad operacional se fundamenten en evidencia objetiva y no únicamente en la experiencia o el criterio individual.
+
+---
+
+# Concepto de Datos y Analítica
+
+ARMIS-PM define la gestión de datos y analítica como:
+
+> **"El conjunto de capacidades orientadas a capturar, integrar, transformar, analizar y comunicar información relevante para apoyar la toma de decisiones estratégicas y fortalecer la generación sostenible de valor mediante una gestión basada en evidencia."**
+
+Esta definición incorpora la analítica como una capacidad permanente del Framework y no como una actividad aislada.
+
+---
+
+# Objetivos del MADA
+
+El Modelo ARMIS de Datos y Analítica tiene como propósito:
+
+* Transformar los datos operacionales en conocimiento útil.
+* Fortalecer la toma de decisiones basada en evidencia.
+* Integrar la información procedente de diferentes fuentes organizacionales.
+* Mejorar la visibilidad del desempeño de procesos, servicios y activos.
+* Facilitar la identificación temprana de desviaciones y oportunidades de mejora.
+* Proporcionar la base de información requerida para la inteligencia artificial.
+* Contribuir a la generación sostenible de valor.
+
+---
+
+# Principios del MADA
+
+El Modelo ARMIS de Datos y Analítica se fundamenta en los siguientes principios:
+
+* Los datos deben responder a las necesidades del negocio.
+* La calidad de las decisiones depende de la calidad de la información.
+* La integración de datos genera mayor valor que su análisis aislado.
+* La información debe ser confiable, oportuna, íntegra y trazable.
+* La analítica debe facilitar la comprensión del desempeño organizacional.
+* El conocimiento generado debe apoyar la mejora continua.
+
+---
+
+# La cadena de valor de los datos
+
+ARMIS-PM establece que la gestión de datos sigue una secuencia lógica de generación de valor.
+
+```text
+Captura de Datos
+        │
+        ▼
+Integración
+        │
+        ▼
+Información
+        │
+        ▼
+Análisis
+        │
+        ▼
+Conocimiento
+        │
+        ▼
+Toma de Decisiones
+        │
+        ▼
+Generación de Valor
+```
+
+Esta secuencia constituye uno de los principios fundamentales del Modelo ARMIS de Datos y Analítica.
+
+---
+
+# Componentes del MADA
+
+El modelo integra las principales capacidades relacionadas con la gestión de información.
+
+Entre ellas:
+
+### Captura de datos
+
+Obtención de información proveniente de activos, sensores, sistemas empresariales, plataformas tecnológicas y procesos organizacionales.
+
+---
+
+### Integración de datos
+
+Consolidación de información procedente de múltiples fuentes para construir una visión única del desempeño organizacional.
+
+---
+
+### Calidad de los datos
+
+Evaluación permanente de la consistencia, integridad, disponibilidad y confiabilidad de la información.
+
+---
+
+### Analítica descriptiva
+
+Permite comprender qué está ocurriendo dentro de la organización mediante indicadores y análisis históricos.
+
+---
+
+### Analítica diagnóstica
+
+Facilita la identificación de causas y relaciones entre eventos operacionales.
+
+---
+
+### Analítica predictiva
+
+Permite anticipar tendencias, riesgos y comportamientos futuros mediante modelos estadísticos y analíticos.
+
+---
+
+### Analítica prescriptiva
+
+Apoya la selección de las mejores alternativas para la toma de decisiones considerando múltiples variables organizacionales.
+
+---
+
+# Integración con el Framework
+
+El Modelo ARMIS de Datos y Analítica integra la información generada por todos los componentes metodológicos desarrollados previamente.
+
+```text
+Procesos
+        │
+Servicios
+        │
+Activos
+        │
+Riesgos
+        │
+Confiabilidad
+        │
+Mantenimiento
+        │
+Tecnología
+        ▼
+Modelo ARMIS de Datos y Analítica (MADA)
+        │
+        ▼
+Inteligencia Artificial
+```
+
+Esta arquitectura convierte la información en el principal habilitador para la toma de decisiones estratégicas.
+
+---
+
+# Beneficios del MADA
+
+La implementación del Modelo ARMIS de Datos y Analítica permite:
+
+* Mejorar la calidad de las decisiones.
+* Incrementar la visibilidad del desempeño organizacional.
+* Detectar oportunamente desviaciones.
+* Optimizar la gestión de activos.
+* Integrar información de diferentes áreas.
+* Facilitar la transformación digital.
+* Preparar la organización para la inteligencia artificial.
+* Fortalecer la cultura de gestión basada en evidencia.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Datos y Analítica representa el mecanismo mediante el cual ARMIS-PM transforma la información operacional en conocimiento estratégico.
+
+Su correcta implementación permite que la organización evolucione desde una gestión reactiva hacia una gestión predictiva, apoyando la mejora continua y fortaleciendo la capacidad para generar valor mediante decisiones fundamentadas en evidencia.
+
+Los principios desarrollados en este capítulo constituyen la base para el siguiente componente metodológico del Framework: el **Modelo ARMIS de Inteligencia Artificial (MAIA)**, donde el conocimiento generado por el MADA será utilizado para desarrollar capacidades avanzadas de análisis, predicción y apoyo a la toma de decisiones.
+
+---
+
+# 18. Inteligencia Artificial
+
+## Modelo ARMIS de Inteligencia Artificial (MAIA)
+
+La Inteligencia Artificial constituye el componente metodológico encargado de fortalecer la capacidad de análisis, aprendizaje y apoyo a la toma de decisiones dentro del Framework ARMIS-PM.
+
+Desde la perspectiva de ARMIS, la Inteligencia Artificial no reemplaza la experiencia, el conocimiento ni el criterio profesional de las personas.
+
+Su propósito consiste en ampliar las capacidades de la ingeniería mediante el procesamiento inteligente de la información, facilitando la identificación de patrones, la predicción de comportamientos y la formulación de recomendaciones que contribuyan al logro de los objetivos estratégicos de la organización.
+
+El Modelo ARMIS de Inteligencia Artificial (MAIA) integra la inteligencia humana, la ingeniería, la analítica y las tecnologías de inteligencia artificial dentro de un modelo orientado a fortalecer la gestión del desempeño organizacional y la generación sostenible de valor.
+
+---
+
+# Concepto de Inteligencia Artificial
+
+ARMIS-PM define la Inteligencia Artificial como:
+
+> **"El conjunto de capacidades tecnológicas que permiten apoyar la toma de decisiones mediante el aprendizaje, el análisis avanzado de información, la generación de conocimiento y la formulación de recomendaciones orientadas a fortalecer el desempeño organizacional."**
+
+Esta definición sitúa la Inteligencia Artificial como un habilitador estratégico de la ingeniería y no como un sustituto del conocimiento humano.
+
+---
+
+# Objetivos del MAIA
+
+El Modelo ARMIS de Inteligencia Artificial tiene como propósito:
+
+* Fortalecer la toma de decisiones estratégicas.
+* Incrementar la capacidad de análisis organizacional.
+* Anticipar riesgos y oportunidades.
+* Optimizar la gestión de activos y mantenimiento.
+* Apoyar la ingeniería de confiabilidad.
+* Automatizar actividades de bajo valor agregado.
+* Favorecer la innovación y la mejora continua.
+* Incrementar la generación sostenible de valor.
+
+---
+
+# Principios del MAIA
+
+El Modelo ARMIS de Inteligencia Artificial se fundamenta en los siguientes principios:
+
+* La Inteligencia Artificial complementa la inteligencia humana.
+* La ingeniería mantiene la responsabilidad sobre las decisiones.
+* La calidad de la IA depende de la calidad de los datos.
+* Los modelos deben ser transparentes, trazables y verificables.
+* La IA debe responder a necesidades reales del negocio.
+* La ética constituye un principio transversal del uso de la Inteligencia Artificial.
+
+---
+
+# Cadena de generación de conocimiento
+
+ARMIS-PM establece que la Inteligencia Artificial representa la evolución natural del conocimiento organizacional.
+
+```text
+Datos
+        │
+        ▼
+Información
+        │
+        ▼
+Analítica
+        │
+        ▼
+Conocimiento
+        │
+        ▼
+Experiencia
+        │
+        ▼
+Ingeniería
+        │
+        ▼
+Inteligencia Artificial
+        │
+        ▼
+Recomendaciones
+        │
+        ▼
+Decisiones
+        │
+        ▼
+Generación de Valor
+```
+
+Esta secuencia constituye uno de los principios fundamentales del MAIA.
+
+---
+
+# Capacidades del MAIA
+
+El Modelo ARMIS de Inteligencia Artificial integra diferentes capacidades tecnológicas para apoyar la gestión del desempeño.
+
+Entre ellas:
+
+### Analítica avanzada
+
+Identificación de patrones y relaciones complejas entre variables operacionales y estratégicas.
+
+---
+
+### Predicción
+
+Estimación del comportamiento futuro de activos, procesos, servicios y riesgos mediante modelos de aprendizaje y análisis predictivo.
+
+---
+
+### Optimización
+
+Evaluación de múltiples escenarios para recomendar alternativas que permitan mejorar el desempeño organizacional.
+
+---
+
+### Automatización inteligente
+
+Apoyo a la ejecución de actividades repetitivas mediante algoritmos capaces de reducir tiempos, errores y esfuerzos operacionales.
+
+---
+
+### Asistentes inteligentes
+
+Sistemas capaces de apoyar a los profesionales mediante recomendaciones, consultas técnicas, búsqueda de conocimiento y asistencia durante la toma de decisiones.
+
+---
+
+### Aprendizaje organizacional
+
+La Inteligencia Artificial contribuye a preservar y reutilizar el conocimiento generado por la organización, fortaleciendo la mejora continua y evitando la pérdida de experiencia crítica.
+
+---
+
+# Integración con el Framework
+
+El MAIA integra el conocimiento generado por todos los modelos metodológicos desarrollados previamente.
+
+```text
+Procesos
+        │
+Servicios
+        │
+Activos
+        │
+Riesgos
+        │
+Confiabilidad
+        │
+Mantenimiento
+        │
+Tecnología
+        │
+Datos y Analítica
+        ▼
+Modelo ARMIS de Inteligencia Artificial (MAIA)
+        │
+        ▼
+Apoyo a la Toma de Decisiones
+```
+
+Esta integración permite que la Inteligencia Artificial contribuya directamente al cumplimiento de la estrategia organizacional.
+
+---
+
+# Beneficios del MAIA
+
+La implementación del Modelo ARMIS de Inteligencia Artificial permite:
+
+* Incrementar la capacidad de análisis organizacional.
+* Mejorar la calidad de las decisiones.
+* Anticipar riesgos y fallas potenciales.
+* Optimizar la utilización de recursos.
+* Fortalecer la ingeniería de confiabilidad.
+* Impulsar la transformación digital.
+* Favorecer la innovación.
+* Potenciar el conocimiento organizacional.
+* Incrementar la generación sostenible de valor.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Inteligencia Artificial representa la evolución natural del Framework ARMIS-PM hacia organizaciones cada vez más inteligentes, resilientes y orientadas al conocimiento.
+
+Su propósito no consiste en sustituir la experiencia de los profesionales, sino en proporcionar herramientas capaces de ampliar su capacidad de análisis, fortalecer la toma de decisiones y facilitar la generación de valor mediante la integración de la ingeniería, la tecnología, los datos y la inteligencia artificial.
+
+Dentro de ARMIS, la Inteligencia Artificial constituye un habilitador estratégico al servicio de la organización y de las personas que la conforman, consolidando un modelo donde el conocimiento humano y las capacidades tecnológicas trabajan de manera complementaria para alcanzar un desempeño organizacional superior.
+
+---
+
+# 19. Medición del Desempeño
+
+## Modelo ARMIS de Medición del Desempeño (MAPD)
+
+La Medición del Desempeño constituye el componente metodológico encargado de evaluar, de manera objetiva, sistemática y continua, la capacidad de la organización para cumplir sus objetivos estratégicos mediante la gestión integrada de procesos, servicios esenciales, activos estratégicos, riesgos, confiabilidad, mantenimiento, tecnología, datos e inteligencia artificial.
+
+Dentro del Framework ARMIS-PM, la medición del desempeño no se limita a la construcción de indicadores operacionales. Su propósito consiste en proporcionar información confiable que permita comprender el comportamiento de la organización, apoyar la toma de decisiones, identificar oportunidades de mejora y verificar la generación de valor.
+
+El Modelo ARMIS de Medición del Desempeño (MAPD) integra los resultados obtenidos por todos los modelos metodológicos desarrollados previamente, consolidándolos en un sistema único de evaluación capaz de reflejar el estado real del desempeño organizacional.
+
+---
+
+# Concepto de Medición del Desempeño
+
+ARMIS-PM define la Medición del Desempeño como:
+
+> **"El proceso sistemático de evaluar el comportamiento de la organización mediante indicadores, métricas y mecanismos de seguimiento que permitan determinar el grado de cumplimiento de los objetivos estratégicos, apoyar la toma de decisiones y fortalecer la mejora continua basada en evidencia."**
+
+Esta definición trasciende la medición tradicional de indicadores de mantenimiento e incorpora una visión integral del desempeño organizacional.
+
+---
+
+# Objetivos del MAPD
+
+El Modelo ARMIS de Medición del Desempeño tiene como propósito:
+
+* Evaluar el cumplimiento de los objetivos estratégicos.
+* Medir el desempeño de procesos, servicios y activos.
+* Fortalecer la toma de decisiones basada en evidencia.
+* Identificar desviaciones y oportunidades de mejora.
+* Evaluar la efectividad de los modelos metodológicos de ARMIS.
+* Facilitar el seguimiento del desempeño organizacional.
+* Contribuir a la generación sostenible de valor.
+
+---
+
+# Principios del MAPD
+
+La Medición del Desempeño se fundamenta en los siguientes principios:
+
+* Toda medición debe responder a un objetivo estratégico.
+* Los indicadores deben generar conocimiento y no únicamente información.
+* La evaluación debe considerar el contexto organizacional.
+* La información utilizada debe ser confiable, íntegra, oportuna y trazable.
+* La medición debe facilitar la mejora continua.
+* Los resultados deben apoyar la toma de decisiones en todos los niveles de la organización.
+
+---
+
+# Niveles de medición
+
+ARMIS-PM propone evaluar el desempeño mediante diferentes niveles complementarios.
+
+### Desempeño Estratégico
+
+Evalúa el grado de cumplimiento de la misión, la visión, los objetivos estratégicos y la generación de valor para la organización.
+
+---
+
+### Desempeño de Procesos
+
+Analiza la eficiencia, eficacia y estabilidad de los procesos críticos identificados mediante el Modelo ARMIS de Procesos Críticos (MAPC).
+
+---
+
+### Desempeño de Servicios Esenciales
+
+Evalúa la disponibilidad, continuidad y calidad de los servicios esenciales definidos mediante el Modelo ARMIS de Servicios Esenciales (MASE).
+
+---
+
+### Desempeño de Activos Estratégicos
+
+Mide la capacidad de los activos para soportar los servicios esenciales mediante indicadores de disponibilidad, confiabilidad, mantenibilidad y utilización.
+
+---
+
+### Desempeño de la Gestión del Riesgo
+
+Evalúa la efectividad de las acciones implementadas para controlar, reducir y monitorear los riesgos identificados mediante el Modelo ARMIS de Gestión Integral del Riesgo (MAGIR).
+
+---
+
+### Desempeño de la Confiabilidad
+
+Analiza la efectividad de las estrategias implementadas por el Modelo ARMIS de Confiabilidad (MAC) para preservar el comportamiento esperado de los activos.
+
+---
+
+### Desempeño del Mantenimiento
+
+Evalúa la eficacia del Modelo ARMIS de Gestión Estratégica del Mantenimiento (MAGEM), considerando la planificación, ejecución y resultados obtenidos.
+
+---
+
+### Desempeño Tecnológico
+
+Analiza la disponibilidad, integración, interoperabilidad y contribución de las tecnologías implementadas mediante el Modelo ARMIS de Gestión Tecnológica (MAGT).
+
+---
+
+### Desempeño de los Datos y la Analítica
+
+Evalúa la calidad de los datos, la efectividad de la analítica y la capacidad de transformar información en conocimiento mediante el Modelo ARMIS de Datos y Analítica (MADA).
+
+---
+
+### Desempeño de la Inteligencia Artificial
+
+Mide la contribución del Modelo ARMIS de Inteligencia Artificial (MAIA) al fortalecimiento de la toma de decisiones y la generación de recomendaciones inteligentes.
+
+---
+
+# Arquitectura del MAPD
+
+ARMIS-PM integra la medición del desempeño como un sistema transversal que consolida la información generada por todos los modelos metodológicos.
+
+```text
+                 Estrategia Organizacional
+                           │
+                           ▼
+        Procesos • Servicios • Activos Estratégicos
+                           │
+                           ▼
+ Riesgos • Confiabilidad • Mantenimiento • Tecnología
+                           │
+                           ▼
+        Datos • Analítica • Inteligencia Artificial
+                           │
+                           ▼
+ Modelo ARMIS de Medición del Desempeño (MAPD)
+                           │
+                           ▼
+        Evaluación • Decisiones • Mejora Continua
+                           │
+                           ▼
+                Generación de Valor
+```
+
+Esta arquitectura permite evaluar el desempeño organizacional como un sistema integrado y no como un conjunto de indicadores aislados.
+
+---
+
+# Categorías de indicadores
+
+ARMIS-PM reconoce múltiples categorías de indicadores, cuya selección dependerá del contexto y los objetivos estratégicos de cada organización.
+
+Entre ellas:
+
+* Indicadores estratégicos.
+* Indicadores de procesos.
+* Indicadores de servicios esenciales.
+* Indicadores de activos estratégicos.
+* Indicadores de gestión del riesgo.
+* Indicadores de confiabilidad.
+* Indicadores de mantenimiento.
+* Indicadores tecnológicos.
+* Indicadores de datos y analítica.
+* Indicadores de inteligencia artificial.
+* Indicadores de generación de valor.
+
+Cada organización deberá definir el conjunto de indicadores que mejor represente su realidad operacional y su nivel de madurez.
+
+---
+
+# Beneficios del MAPD
+
+La implementación del Modelo ARMIS de Medición del Desempeño permite:
+
+* Incrementar la objetividad en la toma de decisiones.
+* Mejorar la visibilidad del desempeño organizacional.
+* Identificar oportunamente desviaciones y tendencias.
+* Integrar información proveniente de todos los modelos metodológicos de ARMIS.
+* Facilitar la evaluación del cumplimiento de la estrategia.
+* Fortalecer la mejora continua.
+* Incrementar la generación sostenible de valor.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Medición del Desempeño constituye el mecanismo mediante el cual ARMIS-PM verifica la efectividad de todos sus componentes metodológicos.
+
+Su aplicación permite transformar indicadores y resultados en conocimiento organizacional, proporcionando información objetiva para fortalecer la toma de decisiones y orientar la mejora continua.
+
+Más que un sistema de indicadores, el MAPD representa un modelo integral de evaluación del desempeño organizacional, capaz de conectar la estrategia, la operación y la tecnología dentro de un único marco metodológico orientado a la generación sostenible de valor.
+
+Los principios desarrollados en este capítulo servirán como fundamento para el siguiente componente metodológico del Framework: el **Modelo ARMIS de Mejora Continua (MAMC)**, donde los resultados obtenidos mediante el MAPD serán utilizados para impulsar la evolución permanente del sistema de gestión y consolidar una cultura organizacional basada en el aprendizaje, la innovación y la excelencia operacional.
+
+---
+
+# 20. Mejora Continua
+
+## Modelo ARMIS de Mejora Continua (MAMC)
+
+La Mejora Continua constituye el componente metodológico encargado de asegurar la evolución permanente del Framework ARMIS-PM mediante el aprendizaje organizacional, la evaluación sistemática del desempeño y la implementación de acciones orientadas a fortalecer la generación sostenible de valor.
+
+Desde la perspectiva de ARMIS, la mejora continua no representa una actividad puntual ni una etapa final del proceso de gestión.
+
+Constituye una capacidad organizacional permanente que permite aprender de la experiencia, adaptarse a los cambios del entorno, incorporar nuevas tecnologías y perfeccionar progresivamente los procesos, servicios, activos y capacidades que conforman la organización.
+
+El Modelo ARMIS de Mejora Continua (MAMC) integra la información proveniente de todos los modelos metodológicos del Framework para promover decisiones fundamentadas en evidencia y orientar la evolución estratégica de la organización.
+
+---
+
+# Concepto de Mejora Continua
+
+ARMIS-PM define la Mejora Continua como:
+
+> **"La capacidad sistemática de una organización para aprender de su desempeño, incorporar conocimiento, implementar acciones de mejora y fortalecer progresivamente sus procesos, servicios, activos y capacidades con el propósito de incrementar la generación sostenible de valor."**
+
+Esta definición amplía el enfoque tradicional de mejora continua al integrarlo con la estrategia organizacional y la gestión del desempeño.
+
+---
+
+# Objetivos del MAMC
+
+El Modelo ARMIS de Mejora Continua tiene como propósito:
+
+* Promover el aprendizaje organizacional.
+* Incrementar el desempeño de procesos, servicios y activos.
+* Fortalecer la capacidad de adaptación al cambio.
+* Integrar la innovación con la gestión del desempeño.
+* Facilitar la actualización permanente del Framework.
+* Consolidar una cultura organizacional basada en evidencia.
+* Contribuir a la generación sostenible de valor.
+
+---
+
+# Principios del MAMC
+
+El Modelo ARMIS de Mejora Continua se fundamenta en los siguientes principios:
+
+* La mejora continua debe responder a la estrategia organizacional.
+* Toda decisión de mejora debe basarse en evidencia objetiva.
+* El aprendizaje organizacional constituye un activo estratégico.
+* La innovación debe generar valor para la organización.
+* La mejora es un proceso permanente y no un objetivo temporal.
+* La participación de las personas es indispensable para la evolución del sistema.
+
+---
+
+# Ciclo de Mejora Continua
+
+ARMIS-PM establece un ciclo permanente de evolución organizacional.
+
+```text
+Planificar
+        │
+        ▼
+Implementar
+        │
+        ▼
+Medir
+        │
+        ▼
+Analizar
+        │
+        ▼
+Aprender
+        │
+        ▼
+Mejorar
+        │
+        ▼
+Innovar
+        │
+        ▼
+Generar Valor
+        │
+        └───────────────► Reinicio del ciclo
+```
+
+Este ciclo refleja el principio de que la mejora continua constituye un proceso permanente de aprendizaje y evolución.
+
+---
+
+# Componentes del MAMC
+
+El Modelo ARMIS de Mejora Continua integra diferentes capacidades organizacionales.
+
+Entre ellas:
+
+### Evaluación del desempeño
+
+Análisis sistemático de los resultados obtenidos mediante el Modelo ARMIS de Medición del Desempeño (MAPD).
+
+---
+
+### Gestión de lecciones aprendidas
+
+Captura, análisis y reutilización del conocimiento generado durante la operación, el mantenimiento, la gestión del riesgo y la implementación de proyectos.
+
+---
+
+### Gestión del conocimiento
+
+Preservación, organización y transferencia del conocimiento crítico de la organización para fortalecer la continuidad operacional y evitar la pérdida de experiencia.
+
+---
+
+### Innovación
+
+Incorporación de nuevas metodologías, tecnologías y prácticas de ingeniería que permitan mejorar el desempeño organizacional.
+
+---
+
+### Gestión del cambio
+
+Planificación y acompañamiento de los cambios organizacionales necesarios para implementar mejoras de manera controlada y sostenible.
+
+---
+
+### Retroalimentación estratégica
+
+Comunicación permanente entre los resultados obtenidos y la alta dirección para asegurar la actualización de la estrategia y las prioridades organizacionales.
+
+---
+
+# Integración con el Framework
+
+El Modelo ARMIS de Mejora Continua representa el punto de convergencia de todos los modelos metodológicos desarrollados por ARMIS-PM.
+
+```text
+Procesos
+        │
+Servicios
+        │
+Activos
+        │
+Riesgos
+        │
+Confiabilidad
+        │
+Mantenimiento
+        │
+Tecnología
+        │
+Datos
+        │
+Inteligencia Artificial
+        │
+Medición del Desempeño
+        ▼
+Modelo ARMIS de Mejora Continua (MAMC)
+        │
+        ▼
+Aprendizaje Organizacional
+        │
+        ▼
+Actualización de la Estrategia
+```
+
+Esta integración permite que la organización evolucione de manera permanente mediante la utilización del conocimiento generado por todo el Framework.
+
+---
+
+# Beneficios del MAMC
+
+La implementación del Modelo ARMIS de Mejora Continua permite:
+
+* Fortalecer el aprendizaje organizacional.
+* Incrementar la capacidad de adaptación al cambio.
+* Mejorar el desempeño de procesos, servicios y activos.
+* Integrar innovación y estrategia.
+* Reducir la repetición de errores.
+* Favorecer la evolución tecnológica.
+* Consolidar una cultura de mejora basada en evidencia.
+* Incrementar la generación sostenible de valor.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Mejora Continua constituye el mecanismo mediante el cual ARMIS-PM asegura su evolución permanente y la de las organizaciones que lo implementan.
+
+Su propósito consiste en transformar la información obtenida mediante la medición del desempeño en acciones concretas de mejora, fortaleciendo el aprendizaje organizacional, la innovación y la adaptación continua frente a los cambios del entorno.
+
+Más que cerrar un ciclo de gestión, el MAMC inicia un nuevo ciclo de evolución, garantizando que el conocimiento generado por la organización se convierta en una ventaja competitiva sostenible y en un motor permanente para la generación de valor.
