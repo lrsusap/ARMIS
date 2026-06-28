@@ -927,3 +927,769 @@ El Modelo ARMIS de Procesos Críticos constituye el primer componente metodológ
 Su correcta aplicación permite comprender qué procesos sostienen realmente la organización y proporciona la base para identificar los servicios esenciales, los activos estratégicos y las capacidades que deberán preservarse para garantizar la continuidad operacional y la generación sostenible de valor.
 
 Los principios establecidos en este capítulo servirán como fundamento para el desarrollo del **Modelo ARMIS de Servicios Esenciales**, presentado en el capítulo siguiente.
+
+---
+
+# 11. Servicios Esenciales
+
+## Modelo ARMIS de Servicios Esenciales (MASE)
+
+Los servicios esenciales constituyen el segundo componente del núcleo metodológico de ARMIS-PM.
+
+Su propósito consiste en identificar, caracterizar y gestionar aquellas capacidades que la organización debe mantener disponibles para garantizar el cumplimiento de su misión, la continuidad de sus procesos críticos y la generación sostenible de valor.
+
+Desde la perspectiva de ARMIS-PM, los procesos representan la forma en que trabaja una organización, mientras que los servicios esenciales representan el resultado que dichos procesos deben entregar.
+
+Por esta razón, el Framework establece que la continuidad operacional no debe orientarse únicamente a preservar procesos o activos, sino a garantizar la disponibilidad permanente de los servicios esenciales que soportan la estrategia organizacional.
+
+---
+
+# Concepto de Servicio Esencial
+
+ARMIS-PM define un servicio esencial como:
+
+> **"La capacidad que una organización debe mantener disponible para cumplir su misión, satisfacer las necesidades de sus grupos de interés y asegurar la continuidad de los procesos críticos que generan valor."**
+
+Esta definición trasciende el concepto tradicional de servicio asociado únicamente al cliente.
+
+Dentro de ARMIS-PM, un servicio esencial puede corresponder a una función operacional, una capacidad tecnológica, un servicio interno o una prestación directa hacia usuarios externos.
+
+Lo verdaderamente importante es su contribución al cumplimiento de la estrategia organizacional.
+
+---
+
+# Objetivos del Modelo ARMIS de Servicios Esenciales
+
+El Modelo ARMIS de Servicios Esenciales (MASE) tiene como propósito:
+
+* Identificar los servicios indispensables para el funcionamiento de la organización.
+* Establecer prioridades para la gestión del desempeño.
+* Determinar los requisitos mínimos de disponibilidad y continuidad.
+* Servir como base para la identificación de los activos estratégicos.
+* Facilitar la integración entre continuidad operacional, gestión de activos y mantenimiento.
+* Fortalecer la toma de decisiones basada en criticidad.
+
+---
+
+# Relación entre procesos y servicios
+
+ARMIS-PM establece una diferencia clara entre procesos y servicios.
+
+Los procesos describen **cómo** trabaja la organización.
+
+Los servicios describen **qué capacidad debe mantenerse disponible** para cumplir la estrategia.
+
+Un mismo servicio esencial puede depender de varios procesos.
+
+Asimismo, un proceso puede contribuir simultáneamente a varios servicios esenciales.
+
+Por esta razón, el Framework promueve un análisis integrado que permita comprender las dependencias existentes entre ambos componentes.
+
+---
+
+# Características de un servicio esencial
+
+Todo servicio esencial deberá definirse considerando, como mínimo, los siguientes atributos:
+
+* Propósito del servicio.
+* Procesos críticos que soporta.
+* Impacto estratégico.
+* Nivel requerido de disponibilidad.
+* Nivel requerido de continuidad.
+* Tiempo máximo de interrupción aceptable.
+* Dependencias operacionales.
+* Dependencias tecnológicas.
+* Activos que soportan su prestación.
+
+Estos atributos permitirán desarrollar posteriormente los modelos de continuidad, confiabilidad y gestión del riesgo.
+
+---
+
+# Relación con los activos estratégicos
+
+Una vez identificados los servicios esenciales, ARMIS-PM determina los activos cuya disponibilidad resulta indispensable para garantizar su prestación.
+
+Esta relación constituye uno de los principios fundamentales del Framework.
+
+Los activos no se consideran estratégicos por su valor económico ni por su complejidad tecnológica.
+
+Se consideran estratégicos porque soportan servicios esenciales para la organización.
+
+Este principio representa una diferencia fundamental respecto a muchos enfoques tradicionales de gestión de activos.
+
+---
+
+# Integración con el Framework
+
+El Modelo ARMIS de Servicios Esenciales ocupa una posición central dentro de la arquitectura metodológica de ARMIS-PM.
+
+```text
+Estrategia Organizacional
+            │
+            ▼
+Procesos Críticos (MAPC)
+            │
+            ▼
+Servicios Esenciales (MASE)
+            │
+            ▼
+Activos Estratégicos
+            │
+            ▼
+Gestión Integral
+```
+
+Esta secuencia garantiza que las decisiones relacionadas con los activos permanezcan alineadas con las verdaderas necesidades del negocio.
+
+---
+
+# Beneficios del MASE
+
+La implementación del Modelo ARMIS de Servicios Esenciales permite:
+
+* Priorizar los recursos organizacionales.
+* Fortalecer la continuidad operacional.
+* Mejorar la gestión de activos.
+* Optimizar la gestión del mantenimiento.
+* Integrar la gestión del riesgo con la estrategia.
+* Incrementar la resiliencia organizacional.
+* Orientar la transformación digital hacia necesidades reales del negocio.
+* Facilitar la generación sostenible de valor.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Servicios Esenciales constituye el vínculo entre los procesos críticos y los activos estratégicos.
+
+Su correcta aplicación permite comprender qué capacidades deben preservarse para asegurar el cumplimiento de la misión organizacional y orientar todas las decisiones de ingeniería hacia la continuidad de los servicios que realmente generan valor.
+
+Los principios desarrollados en este capítulo servirán como fundamento para el **Modelo ARMIS de Activos Estratégicos (MAAE)**, donde se establecerán los criterios para identificar y gestionar los activos cuya disponibilidad resulta indispensable para soportar dichos servicios esenciales.
+
+---
+
+# 12. Activos Estratégicos
+
+## Modelo ARMIS de Activos Estratégicos (MAAE)
+
+Los activos estratégicos constituyen el tercer componente del núcleo metodológico de ARMIS-PM.
+
+Su propósito consiste en identificar, clasificar y gestionar aquellos activos cuya disponibilidad, confiabilidad y desempeño resultan indispensables para soportar los servicios esenciales, garantizar la continuidad de los procesos críticos y contribuir al cumplimiento de la estrategia organizacional.
+
+Desde la perspectiva de ARMIS-PM, un activo no adquiere carácter estratégico por su costo, tamaño, complejidad tecnológica o antigüedad.
+
+Un activo es estratégico únicamente cuando su pérdida de desempeño compromete la capacidad de la organización para prestar un servicio esencial o alcanzar un objetivo estratégico.
+
+Esta visión sitúa el análisis de activos dentro del contexto del negocio y fortalece la alineación entre la ingeniería, la gestión y la estrategia.
+
+---
+
+# Concepto de Activo Estratégico
+
+ARMIS-PM define un activo estratégico como:
+
+> **"Todo recurso físico, tecnológico, digital o de información cuya disponibilidad y desempeño resultan esenciales para soportar uno o más servicios esenciales y garantizar el cumplimiento de la misión y los objetivos estratégicos de la organización."**
+
+Esta definición amplía el concepto tradicional de activo industrial.
+
+Dentro de ARMIS-PM, un activo estratégico puede corresponder a una máquina, una infraestructura, un sistema de información, una red de comunicaciones, un centro de datos, un equipo de automatización, un software especializado o cualquier otro recurso indispensable para la prestación de un servicio esencial.
+
+---
+
+# Objetivos del Modelo ARMIS de Activos Estratégicos
+
+El Modelo ARMIS de Activos Estratégicos (MAAE) tiene como propósito:
+
+* Identificar los activos que generan mayor impacto sobre la organización.
+* Relacionar cada activo con los servicios esenciales que soporta.
+* Priorizar la gestión de activos de acuerdo con criterios estratégicos.
+* Facilitar la gestión integral del riesgo.
+* Establecer las bases para la ingeniería de confiabilidad y la gestión del mantenimiento.
+* Optimizar la asignación de recursos técnicos y financieros.
+* Favorecer la toma de decisiones basada en valor.
+
+---
+
+# Clasificación de los activos estratégicos
+
+ARMIS-PM propone clasificar los activos estratégicos considerando la función que desempeñan dentro de la organización.
+
+### Activos físicos
+
+Equipos, instalaciones, infraestructura, maquinaria, herramientas y demás recursos materiales que participan directamente en la operación.
+
+---
+
+### Activos tecnológicos
+
+Sistemas de información, plataformas digitales, aplicaciones, bases de datos, servicios tecnológicos y soluciones que soportan los procesos organizacionales.
+
+---
+
+### Activos de tecnología operacional (OT)
+
+Equipos de automatización, PLC, SCADA, sensores, sistemas de control industrial, IIoT y demás componentes que intervienen directamente en la operación física de los procesos.
+
+---
+
+### Activos de información
+
+Datos, documentación técnica, procedimientos, modelos, registros y conocimiento organizacional cuya disponibilidad resulta indispensable para la toma de decisiones y la continuidad del negocio.
+
+---
+
+# Relación entre activos y servicios esenciales
+
+El principio fundamental del MAAE establece que todo activo estratégico deberá estar asociado, como mínimo, a un servicio esencial.
+
+Esta relación permite comprender por qué un activo resulta importante para la organización y cuál es el impacto potencial derivado de su pérdida de desempeño.
+
+De esta manera, ARMIS-PM evita clasificar activos únicamente por criterios técnicos o económicos y orienta la gestión hacia el valor que dichos activos generan para el negocio.
+
+---
+
+# Criterios para determinar la importancia estratégica
+
+ARMIS-PM propone evaluar los activos considerando, entre otros, los siguientes aspectos:
+
+* Contribución a los servicios esenciales.
+* Impacto sobre los procesos críticos.
+* Influencia en el cumplimiento de los objetivos estratégicos.
+* Consecuencias sobre la seguridad de las personas.
+* Consecuencias ambientales.
+* Impacto financiero.
+* Requisitos legales y regulatorios.
+* Dependencias tecnológicas.
+* Disponibilidad de redundancias.
+* Tiempo requerido para recuperación o reemplazo.
+
+Estos criterios servirán posteriormente como insumo para los modelos de gestión del riesgo, confiabilidad y mantenimiento.
+
+---
+
+# Integración con el Framework
+
+El Modelo ARMIS de Activos Estratégicos constituye el punto de conexión entre la comprensión del negocio y la gestión técnica de los activos.
+
+```text
+Estrategia Organizacional
+            │
+            ▼
+Procesos Críticos (MAPC)
+            │
+            ▼
+Servicios Esenciales (MASE)
+            │
+            ▼
+Activos Estratégicos (MAAE)
+            │
+            ▼
+Gestión del Riesgo
+            │
+            ▼
+Ingeniería de Confiabilidad
+            │
+            ▼
+Gestión del Mantenimiento
+```
+
+Esta secuencia representa uno de los principios fundamentales de ARMIS-PM: **la gestión de activos siempre debe responder a las necesidades del negocio**.
+
+---
+
+# Beneficios del MAAE
+
+La aplicación del Modelo ARMIS de Activos Estratégicos permite:
+
+* Priorizar los activos realmente importantes para la organización.
+* Optimizar las inversiones en mantenimiento y renovación.
+* Mejorar la confiabilidad de los servicios esenciales.
+* Fortalecer la continuidad operacional.
+* Integrar la gestión de activos con la estrategia organizacional.
+* Facilitar la gestión integral del riesgo.
+* Incrementar la resiliencia y la sostenibilidad organizacional.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Activos Estratégicos representa el punto de transición entre el análisis estratégico de la organización y la aplicación de metodologías técnicas especializadas.
+
+A partir de este capítulo, ARMIS-PM inicia el desarrollo de los modelos orientados a gestionar el comportamiento de los activos mediante la evaluación de riesgos, la ingeniería de confiabilidad y la gestión del mantenimiento.
+
+La correcta identificación de los activos estratégicos garantiza que los recursos de ingeniería se orienten hacia aquellos elementos cuya disponibilidad resulta verdaderamente determinante para la continuidad de los servicios esenciales y la generación sostenible de valor.
+
+---
+
+# 13. Gestión del Riesgo
+
+## Modelo ARMIS de Gestión Integral del Riesgo (MAGIR)
+
+La Gestión del Riesgo constituye el primer componente técnico especializado del Framework ARMIS-PM.
+
+Su propósito consiste en identificar, analizar, evaluar, tratar y monitorear los riesgos que pueden afectar la capacidad de la organización para mantener sus servicios esenciales, ejecutar sus procesos críticos y alcanzar sus objetivos estratégicos.
+
+Desde la perspectiva de ARMIS-PM, el riesgo no debe analizarse únicamente desde el comportamiento de un activo individual.
+
+Debe comprenderse como la posibilidad de que un evento afecte la generación de valor de la organización mediante la degradación de sus procesos, servicios o capacidades estratégicas.
+
+En consecuencia, ARMIS-PM adopta un enfoque sistémico donde la gestión del riesgo se desarrolla sobre el contexto previamente establecido por el Modelo Organizacional, el Modelo ARMIS de Procesos Críticos (MAPC), el Modelo ARMIS de Servicios Esenciales (MASE) y el Modelo ARMIS de Activos Estratégicos (MAAE).
+
+---
+
+# Concepto de riesgo
+
+ARMIS-PM define el riesgo como:
+
+> **"La posibilidad de que un evento o condición afecte la capacidad de la organización para mantener sus procesos críticos, prestar sus servicios esenciales o alcanzar sus objetivos estratégicos."**
+
+Esta definición sitúa el riesgo en el contexto del negocio y no exclusivamente sobre los activos físicos.
+
+---
+
+# Objetivos del MAGIR
+
+El Modelo ARMIS de Gestión Integral del Riesgo tiene como propósito:
+
+* Integrar la gestión del riesgo con la estrategia organizacional.
+* Priorizar los riesgos según su impacto sobre los servicios esenciales.
+* Proteger la continuidad de los procesos críticos.
+* Orientar la gestión de activos y el mantenimiento hacia escenarios de mayor exposición.
+* Facilitar la toma de decisiones basada en evidencia.
+* Incrementar la resiliencia organizacional.
+
+---
+
+# Principios del MAGIR
+
+El Modelo ARMIS de Gestión Integral del Riesgo se fundamenta en los siguientes principios:
+
+* Contexto estratégico antes que contexto técnico.
+* Gestión basada en procesos y servicios.
+* Priorización mediante impacto sobre la generación de valor.
+* Integración con la confiabilidad y el mantenimiento.
+* Decisiones fundamentadas en evidencia.
+* Gestión dinámica y mejora continua.
+
+---
+
+# Dimensiones del riesgo
+
+ARMIS-PM propone analizar el riesgo considerando múltiples dimensiones de manera simultánea.
+
+Entre ellas:
+
+* Riesgo estratégico.
+* Riesgo operacional.
+* Riesgo asociado a activos.
+* Riesgo tecnológico.
+* Riesgo de continuidad.
+* Riesgo de seguridad.
+* Riesgo ambiental.
+* Riesgo legal y regulatorio.
+* Riesgo reputacional.
+
+Esta visión integral permite comprender cómo un mismo evento puede afectar diferentes componentes de la organización.
+
+---
+
+# Modelo de análisis del riesgo
+
+ARMIS-PM establece la siguiente secuencia metodológica para la gestión del riesgo:
+
+```text
+Estrategia
+        │
+        ▼
+Procesos Críticos
+        │
+        ▼
+Servicios Esenciales
+        │
+        ▼
+Activos Estratégicos
+        │
+        ▼
+Identificación del Riesgo
+        │
+        ▼
+Análisis del Riesgo
+        │
+        ▼
+Evaluación del Riesgo
+        │
+        ▼
+Tratamiento del Riesgo
+        │
+        ▼
+Monitoreo y Mejora Continua
+```
+
+Esta secuencia garantiza que la gestión del riesgo permanezca alineada con las prioridades estratégicas de la organización.
+
+---
+
+# Relación con la Ingeniería de Confiabilidad
+
+Dentro de ARMIS-PM, la gestión del riesgo constituye el puente entre la comprensión estratégica del negocio y la ingeniería de confiabilidad.
+
+Los riesgos identificados determinan cuáles activos requieren mayores niveles de confiabilidad, disponibilidad y mantenibilidad.
+
+Por esta razón, la ingeniería de confiabilidad desarrollada en el siguiente capítulo se fundamentará directamente en los resultados obtenidos mediante el MAGIR.
+
+---
+
+# Beneficios del MAGIR
+
+La implementación del Modelo ARMIS de Gestión Integral del Riesgo permite:
+
+* Priorizar la gestión según el impacto real sobre el negocio.
+* Fortalecer la continuidad operacional.
+* Optimizar la asignación de recursos.
+* Integrar la gestión de activos con la estrategia organizacional.
+* Mejorar la toma de decisiones.
+* Incrementar la resiliencia organizacional.
+* Facilitar la mejora continua del desempeño.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Gestión Integral del Riesgo representa el mecanismo mediante el cual ARMIS-PM transforma la comprensión estratégica de la organización en criterios objetivos para la toma de decisiones de ingeniería.
+
+Su aplicación permite identificar las amenazas que pueden comprometer la generación de valor y establecer las prioridades que orientarán la ingeniería de confiabilidad, la gestión del mantenimiento y el desarrollo de las capacidades tecnológicas del Framework.
+
+Los principios establecidos en este capítulo servirán como base para el desarrollo del **Modelo ARMIS de Ingeniería de Confiabilidad**, presentado en el capítulo siguiente.
+
+---
+
+# 14. Ingeniería de Confiabilidad
+
+## Modelo ARMIS de Confiabilidad (MAC)
+
+La Ingeniería de Confiabilidad constituye el componente metodológico encargado de garantizar que los activos estratégicos mantengan el nivel de desempeño requerido para soportar los procesos críticos y asegurar la prestación continua de los servicios esenciales.
+
+Dentro del Framework ARMIS-PM, la confiabilidad no se limita al estudio de la probabilidad de falla de un activo.
+
+Representa la capacidad de la organización para mantener el desempeño esperado de sus sistemas mediante una gestión integrada de la ingeniería, el riesgo, el mantenimiento, la tecnología y la información.
+
+El Modelo ARMIS de Confiabilidad (MAC) establece el conjunto de principios, metodologías y herramientas que permiten comprender el comportamiento de los activos, anticipar la ocurrencia de fallas y definir estrategias que incrementen la disponibilidad, la mantenibilidad y la resiliencia operacional.
+
+---
+
+# Concepto de confiabilidad
+
+ARMIS-PM define la confiabilidad como:
+
+> **"La capacidad de un activo, sistema o conjunto de activos para desempeñar su función requerida durante un período determinado, contribuyendo de manera sostenida a la prestación de los servicios esenciales y al cumplimiento de los objetivos estratégicos de la organización."**
+
+Esta definición integra la perspectiva clásica de la ingeniería de confiabilidad con la visión estratégica propuesta por ARMIS.
+
+---
+
+# Objetivos del MAC
+
+El Modelo ARMIS de Confiabilidad tiene como propósito:
+
+* Incrementar la confiabilidad de los activos estratégicos.
+* Fortalecer la continuidad de los servicios esenciales.
+* Reducir la probabilidad y el impacto de las fallas.
+* Optimizar las estrategias de mantenimiento.
+* Integrar la confiabilidad con la gestión del riesgo.
+* Apoyar la toma de decisiones basada en evidencia.
+* Contribuir a la generación sostenible de valor.
+
+---
+
+# Principios del Modelo ARMIS de Confiabilidad
+
+El MAC se fundamenta en los siguientes principios:
+
+* La confiabilidad debe responder a las necesidades del negocio.
+* La gestión de la confiabilidad inicia con el análisis de los servicios esenciales.
+* Las fallas deben prevenirse siempre que resulte técnica y económicamente viable.
+* La información constituye el principal activo para mejorar la confiabilidad.
+* La mejora continua fortalece progresivamente el desempeño organizacional.
+
+---
+
+# Componentes del MAC
+
+El Modelo ARMIS de Confiabilidad integra diferentes disciplinas reconocidas internacionalmente.
+
+Entre ellas:
+
+### Análisis de criticidad
+
+Permite establecer prioridades de gestión considerando el impacto de cada activo sobre los servicios esenciales.
+
+---
+
+### Análisis de modos y efectos de falla (FMEA/FMECA)
+
+Facilita la identificación sistemática de los posibles modos de falla, sus causas, consecuencias y controles asociados.
+
+---
+
+### Mantenimiento Centrado en Confiabilidad (RCM)
+
+Permite seleccionar las estrategias de mantenimiento más adecuadas para preservar las funciones requeridas de los activos.
+
+---
+
+### Análisis de causa raíz (RCA)
+
+Proporciona metodologías para investigar eventos no deseados y eliminar las causas fundamentales que originan las fallas.
+
+---
+
+### Análisis estadístico de confiabilidad
+
+Integra técnicas como distribuciones de Weibull, análisis de vida útil y modelos probabilísticos para comprender el comportamiento de los activos.
+
+---
+
+### Gestión del monitoreo de condición
+
+Permite detectar desviaciones en el comportamiento de los activos mediante técnicas predictivas y monitoreo continuo.
+
+---
+
+# Indicadores de confiabilidad
+
+ARMIS-PM reconoce la importancia de medir objetivamente el desempeño de los activos.
+
+Entre los principales indicadores considerados por el MAC se encuentran:
+
+* MTBF.
+* MTTR.
+* Disponibilidad.
+* Confiabilidad.
+* Mantenibilidad.
+* Tiempo medio de detección.
+* Tiempo medio de recuperación.
+* Cumplimiento de estrategias de mantenimiento.
+
+La selección de estos indicadores dependerá del contexto organizacional y de los servicios esenciales que soporten.
+
+---
+
+# Relación con el Framework
+
+El Modelo ARMIS de Confiabilidad constituye el puente entre la gestión del riesgo y la gestión del mantenimiento.
+
+```text
+Procesos Críticos
+        │
+        ▼
+Servicios Esenciales
+        │
+        ▼
+Activos Estratégicos
+        │
+        ▼
+Gestión Integral del Riesgo (MAGIR)
+        │
+        ▼
+Modelo ARMIS de Confiabilidad (MAC)
+        │
+        ▼
+Gestión del Mantenimiento
+```
+
+Esta secuencia garantiza que las estrategias de mantenimiento respondan al nivel de riesgo y a las necesidades reales del negocio.
+
+---
+
+# Beneficios del MAC
+
+La implementación del Modelo ARMIS de Confiabilidad permite:
+
+* Incrementar la disponibilidad operacional.
+* Reducir fallas repetitivas.
+* Optimizar la planificación del mantenimiento.
+* Disminuir costos asociados a indisponibilidad.
+* Mejorar la continuidad operacional.
+* Fortalecer la resiliencia organizacional.
+* Apoyar la transformación digital mediante el uso de analítica y monitoreo inteligente.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Confiabilidad representa el mecanismo mediante el cual ARMIS-PM transforma la información obtenida del análisis de riesgos en estrategias concretas para preservar el desempeño de los activos estratégicos.
+
+Su aplicación integra metodologías ampliamente reconocidas dentro de una visión sistémica orientada a la continuidad de los servicios esenciales y a la generación sostenible de valor.
+
+Los conceptos desarrollados en este capítulo servirán como fundamento para el siguiente componente metodológico del Framework: el **Modelo ARMIS de Gestión Estratégica del Mantenimiento**, donde se definirán las estrategias necesarias para materializar los objetivos de confiabilidad establecidos por el MAC.
+
+---
+
+# 15. Gestión del Mantenimiento
+
+## Modelo ARMIS de Gestión Estratégica del Mantenimiento (MAGEM)
+
+La Gestión del Mantenimiento constituye el componente metodológico mediante el cual ARMIS-PM transforma los objetivos de confiabilidad en acciones concretas orientadas a preservar el desempeño de los activos estratégicos y garantizar la continuidad de los servicios esenciales.
+
+Dentro del Framework ARMIS, el mantenimiento deja de entenderse como una actividad exclusivamente operativa y pasa a concebirse como una capacidad estratégica que contribuye directamente al cumplimiento de los objetivos organizacionales.
+
+El Modelo ARMIS de Gestión Estratégica del Mantenimiento (MAGEM) integra principios de ingeniería, gestión de activos, confiabilidad, análisis de riesgos, transformación digital y mejora continua para establecer estrategias de mantenimiento alineadas con las necesidades reales del negocio.
+
+Su propósito consiste en asegurar que cada intervención de mantenimiento genere valor para la organización mediante el fortalecimiento de la disponibilidad, la confiabilidad, la mantenibilidad y la resiliencia de los activos estratégicos.
+
+---
+
+# Concepto de Gestión Estratégica del Mantenimiento
+
+ARMIS-PM define la Gestión Estratégica del Mantenimiento como:
+
+> **"El conjunto de decisiones, procesos y actividades orientadas a preservar el desempeño requerido de los activos estratégicos, garantizando la continuidad de los servicios esenciales y contribuyendo al cumplimiento de la estrategia organizacional mediante una gestión integrada basada en riesgo, confiabilidad y generación de valor."**
+
+Esta definición representa uno de los principios fundamentales del Framework ARMIS.
+
+---
+
+# Objetivos del MAGEM
+
+El Modelo ARMIS de Gestión Estratégica del Mantenimiento tiene como propósito:
+
+* Preservar el desempeño de los activos estratégicos.
+* Garantizar la continuidad de los servicios esenciales.
+* Incrementar la disponibilidad operacional.
+* Optimizar el costo del ciclo de vida de los activos.
+* Integrar mantenimiento, confiabilidad y gestión del riesgo.
+* Fortalecer la toma de decisiones basada en información.
+* Contribuir a la generación sostenible de valor.
+
+---
+
+# Principios del MAGEM
+
+La gestión estratégica del mantenimiento se fundamenta en los siguientes principios:
+
+* El mantenimiento debe responder a la estrategia organizacional.
+* Las prioridades se establecen según el impacto sobre los servicios esenciales.
+* La planificación debe basarse en riesgo y confiabilidad.
+* La información constituye el principal insumo para la mejora continua.
+* La tecnología debe facilitar la toma de decisiones y no limitarse al registro de actividades.
+* Toda intervención de mantenimiento debe aportar valor a la organización.
+
+---
+
+# Estrategias de mantenimiento
+
+ARMIS-PM reconoce múltiples estrategias de mantenimiento, cuya selección dependerá del contexto operacional, la criticidad de los activos y los riesgos identificados.
+
+Entre ellas:
+
+### Mantenimiento Correctivo
+
+Aplicado cuando la estrategia más conveniente consiste en intervenir el activo después de la ocurrencia de la falla.
+
+---
+
+### Mantenimiento Preventivo
+
+Basado en actividades programadas orientadas a reducir la probabilidad de falla.
+
+---
+
+### Mantenimiento Predictivo
+
+Fundamentado en el monitoreo del comportamiento de los activos y en la identificación temprana de desviaciones.
+
+---
+
+### Mantenimiento Basado en Condición
+
+Las intervenciones se ejecutan de acuerdo con el estado real del activo y no únicamente por intervalos de tiempo.
+
+---
+
+### Mantenimiento Basado en Riesgo
+
+Las prioridades de intervención se determinan considerando el nivel de riesgo asociado a cada activo y el impacto potencial sobre los servicios esenciales.
+
+---
+
+### Mantenimiento Prescriptivo
+
+Utiliza modelos analíticos e inteligencia artificial para recomendar acciones óptimas de mantenimiento considerando múltiples variables operacionales.
+
+---
+
+# Capacidades del MAGEM
+
+El modelo integra las principales capacidades requeridas para una gestión moderna del mantenimiento.
+
+Entre ellas:
+
+* Planeación y programación.
+* Gestión de órdenes de trabajo.
+* Administración del backlog.
+* Gestión de recursos.
+* Gestión de repuestos e inventarios.
+* Paradas programadas.
+* Gestión documental.
+* Indicadores de mantenimiento.
+* Integración con sistemas CMMS, EAM y ERP.
+* Integración con SAP PM.
+
+Estas capacidades deberán implementarse de forma coherente con los principios definidos por ARMIS-PM.
+
+---
+
+# Integración con el Framework
+
+El Modelo ARMIS de Gestión Estratégica del Mantenimiento constituye la materialización operativa de la ingeniería de confiabilidad.
+
+```text
+Procesos Críticos
+        │
+        ▼
+Servicios Esenciales
+        │
+        ▼
+Activos Estratégicos
+        │
+        ▼
+MAGIR
+        │
+        ▼
+MAC
+        │
+        ▼
+MAGEM
+        │
+        ▼
+Gestión Tecnológica
+```
+
+Esta secuencia garantiza que las actividades de mantenimiento respondan a las prioridades del negocio y a los objetivos estratégicos de la organización.
+
+---
+
+# Beneficios del MAGEM
+
+La implementación del Modelo ARMIS de Gestión Estratégica del Mantenimiento permite:
+
+* Incrementar la disponibilidad y confiabilidad de los activos.
+* Optimizar la utilización de recursos.
+* Reducir fallas repetitivas.
+* Mejorar la eficiencia operacional.
+* Integrar mantenimiento, riesgo y confiabilidad.
+* Facilitar la transformación digital.
+* Incrementar la resiliencia organizacional.
+* Generar valor sostenible para la organización.
+
+---
+
+# Consideraciones finales
+
+El Modelo ARMIS de Gestión Estratégica del Mantenimiento representa la consolidación de los principios metodológicos desarrollados por ARMIS-PM.
+
+Su aplicación permite transformar la información proveniente de la gestión del riesgo y de la ingeniería de confiabilidad en estrategias de mantenimiento alineadas con las necesidades del negocio.
+
+El mantenimiento deja de ser un fin operativo y se convierte en una capacidad estratégica para preservar los activos, garantizar la continuidad de los servicios esenciales y fortalecer la generación de valor.
+
+Los principios desarrollados en este capítulo servirán como base para el siguiente componente metodológico del Framework: la **Gestión Tecnológica**, donde se establecerán las capacidades digitales necesarias para soportar la implementación de ARMIS-PM.
